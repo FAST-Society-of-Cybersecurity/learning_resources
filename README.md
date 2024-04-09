@@ -3,7 +3,7 @@
 Welcome to the FAST Society of Cybersecurity Learning Resources Repository! This repository serves as a comprehensive collection of educational materials tailored to students interested in various aspects of cybersecurity. You'll find resources here to support your learning journey.
 
 ### About This Repository
-At FAST Society of Cybersecurity, we believe in the importance of providing accessible and structured learning resources to empower students in mastering cybersecurity concepts and skills. Our repository is organized into different categories, covering a wide range of topics essential to understanding and practicing cybersecurity effectively. Explore each category to access curated resources, tutorials, articles, and hands-on exercises designed to enhance your knowledge and proficiency in cybersecurity.
+At FAST Society of Cybersecurity, we believe in the importance of providing accessible and structured learning resources to empower students in mastering cybersecurity concepts and skills. Our repository is organized into different categories, covering a wide range of topics essential to understanding and practicing cybersecurity effectively. Explore each category to access curated resources, tutorials, and articles to enhance your knowledge and proficiency in cybersecurity.
 
 ### Learning Categories
 1. **Fundamentals:** Start here to build a solid foundation in cybersecurity principles, terminology, and concepts.
