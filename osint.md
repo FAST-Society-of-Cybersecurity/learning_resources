@@ -11,6 +11,8 @@ https://tryhackme.com/r/room/shodan
 
 https://www.sentinelone.com/cybersecurity-101/open-source-intelligence-osint/
 
+https://www.securityblue.team/courses/open-source-intelligence-training-beginner
+
 
 - Practice:
   
