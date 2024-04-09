@@ -13,6 +13,21 @@ https://www.youtube.com/playlist?list=PLBf0hzazHTGMh2fe2MFf3lCgk0rKmS2by
 
 ----------------------------------------------------------------------------------------------
 
+Windows:
+
+
+https://tryhackme.com/r/room/windowsfundamentals1xbx
+
+https://tryhackme.com/r/room/windowsfundamentals2x0x
+
+https://tryhackme.com/r/room/windowsfundamentals3xzx
+
+https://academy.hackthebox.com/module/details/49
+
+https://academy.hackthebox.com/module/details/167
+
+----------------------------------------------------------------------------------------------
+
 Networking:
 
 
@@ -45,14 +60,9 @@ https://www.handsonsecurity.net/resources.html (Network Security)
 
 ----------------------------------------------------------------------------------------------
 
-Windows:
+Cybersecurity Fundamentals:
 
-https://tryhackme.com/r/room/windowsfundamentals1xbx
 
-https://tryhackme.com/r/room/windowsfundamentals2x0x
+https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US
 
-https://tryhackme.com/r/room/windowsfundamentals3xzx
-
-https://academy.hackthebox.com/module/details/49
-
-https://academy.hackthebox.com/module/details/167
+https://skillsforall.com/course/cybersecurity-essentials?courseLang=en-US&instance_id=dd0847b7-d6fc-4597-bc31-38ddd6b07a2f
