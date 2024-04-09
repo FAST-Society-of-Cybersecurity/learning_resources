@@ -1,4 +1,4 @@
-Forensics:
+Digital Forensics:
 
 
 - Introduction:
@@ -15,7 +15,11 @@ https://tryhackme.com/r/room/malresearching
 
 https://tryhackme.com/r/room/introtologs
 
+https://www.youtube.com/playlist?list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD
+
+
 - Tools:
+  
 https://www.youtube.com/watch?v=o6boK9dG-Lc&list=PLTnRtjQN5ieZuL1qgfAQxEIg1Bw4hS8wM&index=8&pp=iAQB
 
 https://www.youtube.com/watch?v=2S_pi9qnIo8&list=PLTnRtjQN5ieZuL1qgfAQxEIg1Bw4hS8wM&index=9&pp=iAQB
